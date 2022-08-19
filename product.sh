@@ -1,0 +1,4 @@
+samsung
+apple
+nokia
+
